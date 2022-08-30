@@ -1,4 +1,4 @@
-# Odyssey lift off
+# GraphQL Tutorial: Odyssey lift off
 
 This repository contains 4 parts of courses solution of the `https://www.apollographql.com/tutorials/`
 
